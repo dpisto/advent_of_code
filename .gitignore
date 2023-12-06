@@ -4,6 +4,8 @@ __pycache__/
 # env
 aoc-env/
 venv/
+venv310/
+venv*/
 # enviornment variables
 .env
 # packaging
