@@ -6,16 +6,8 @@ A library to help create files and pull inputs for the <a href=https://adventofc
 
 | Year   | Stars | Completion % |
 | ------ | ----- | ------------ |
-| [2023] |       | 0            |
-| [2022] | 21    | 42           |
-| [2021] | 25    | 50           |
-| [2020] | 14    | 28           |
-| [2019] | 10    | 20           |
-| [2018] | 10    | 20           |
-| [2017] | 15    | 30           |
-| [2016] | 20    | 40           |
-| [2015] | 32    | 64           |
-| TOTAL  | 147   | 32.67        |
+| [2023] | 4     | 0            |
+| TOTAL  | 4     | 0            |
 
 # Installation and Setup
 
