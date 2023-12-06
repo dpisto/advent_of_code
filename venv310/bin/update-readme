@@ -1,0 +1,8 @@
+#!/Users/dpiston/github/aoc-util/venv310/bin/python3.10
+# -*- coding: utf-8 -*-
+import re
+import sys
+from aoc_util.readme import update_readme
+if __name__ == '__main__':
+    sys.argv[0] = re.sub(r'(-script\.pyw|\.exe)?$', '', sys.argv[0])
+    sys.exit(update_readme())
